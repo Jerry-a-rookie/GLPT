@@ -1,12 +1,21 @@
-# GLPT: "Global-Local Pyramid Transformer for Multivariate Time Series Forecasting."
+<img width="3006" height="2460" alt="image" src="https://github.com/user-attachments/assets/d0e7659f-ff30-4b6d-9360-2238a0ae2382" /># GLPT: "Global-Local Pyramid Transformer for Multivariate Time Series Forecasting."
 Code of GLPT
 
 ## Key Designs
 1.Global-Local Fusion: Integrate global temporal dependencies and local fine-grained patterns of multivariate time series to capture comprehensive temporal characteristics.
 
 2.Pyramid Attention Mechanism: Adopt a pyramidal hierarchical structure to efficiently model long-range dependencies with low computational complexity, tailored for multivariate time series forecasting scenarios.
+
+Structure of GLPT：
 ![Structure of GLPT](https://github.com/Jerry-a-rookie/GLPT/blob/main/Figure_1.png?raw=true)
 
+
+Detail of PPI：
+![Detail of PPI](https://github.com/Jerry-a-rookie/GLPT/blob/main/Figure_2.png?raw=true)
+
+
+Results:
+![Results](<img width="3006" height="2460" alt="image" src="https://github.com/user-attachments/assets/c7f00be0-6a32-46b8-84b4-9618b23f6c87" />)
 
 ## Getting Started
 1.Download data. Due to the large size of the datasets, you can download all the datasets from Autoformer. Create a separate folder ./dataset and put all the csv files in the directory.
