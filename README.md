@@ -1,4 +1,4 @@
-<img width="3006" height="2460" alt="image" src="https://github.com/user-attachments/assets/d0e7659f-ff30-4b6d-9360-2238a0ae2382" /># GLPT: "Global-Local Pyramid Transformer for Multivariate Time Series Forecasting."
+
 Code of GLPT
 
 ## Key Designs
