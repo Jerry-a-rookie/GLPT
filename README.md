@@ -15,7 +15,7 @@ Detail of PPI：
 
 
 Results:
-![Results](<img width="3006" height="2460" alt="image" src="https://github.com/user-attachments/assets/c7f00be0-6a32-46b8-84b4-9618b23f6c87" />)
+![Results](https://github.com/Jerry-a-rookie/GLPT/blob/main/leida.png?raw=true)
 
 ## Getting Started
 1.Download data. Due to the large size of the datasets, you can download all the datasets from Autoformer. Create a separate folder ./dataset and put all the csv files in the directory.
