@@ -5,7 +5,7 @@ Code of GLPT
 1.Global-Local Fusion: Integrate global temporal dependencies and local fine-grained patterns of multivariate time series to capture comprehensive temporal characteristics.
 
 2.Pyramid Attention Mechanism: Adopt a pyramidal hierarchical structure to efficiently model long-range dependencies with low computational complexity, tailored for multivariate time series forecasting scenarios.
-![Structure of GLPT][https://github.com/Jerry-a-rookie/GLPT/blob/main/Figure_1.png?raw=true]
+![Structure of GLPT](https://github.com/Jerry-a-rookie/GLPT/blob/main/Figure_1.png?raw=true)
 
 
 ## Getting Started
